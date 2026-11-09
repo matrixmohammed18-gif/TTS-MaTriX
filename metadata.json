@@ -1,0 +1,8 @@
+{
+  "name": "Remix داريجات TTS - Darijat AI Voice Generator",
+  "description": "منصة داريجات لتحويل النصوص إلى صوت طبيعي بالذكاء الاصطناعي بمختلف اللهجات العربية واستوديو المخرج المتطور.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

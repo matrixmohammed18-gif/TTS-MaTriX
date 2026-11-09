@@ -1,0 +1,6 @@
+{
+  "summary":  "Implementation plan for dedicating Darijat TTS purely to authentic Google AI Studio voice generation via Gemini 3.8 Flash TTS. Eliminates generic translation voices, introduces rich distinct voice personas for all 18 characters, provides a sleek API key guidance alert modal, and delivers a professional Director Mode studio with realistic Arabic dialect articulation.",
+  "updatedAt":  "2026-11-09T12:07:30.454786302Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}
